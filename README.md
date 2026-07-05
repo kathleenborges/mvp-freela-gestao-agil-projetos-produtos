@@ -1,9 +1,8 @@
-# mvp-freela-gestao-agil-projetos-produtos
-MVP de um marketplace de serviços desenvolvido aplicando Lean Inception e Scrum. O projeto contempla levantamento de requisitos, criação de backlog no Jira e prototipação no Figma. Freela permite conectar clientes e prestadores, possibilitando cadastro, busca de profissionais, solicitação de orçamento e acompanhamento de serviços.
-
 # Freela - Marketplace de Serviços
 
-O Freela é uma aplicação criada para conectar clientes que precisam contratar serviços a profissionais autônomos disponíveis na plataforma.
+O Freela é uma aplicação criada para conectar clientes que precisam contratar serviços a profissionais autônomos disponíveis na plataforma, possibilitando cadastro, busca de profissionais, solicitação de orçamento e acompanhamento de serviços.
+
+Trata-se de um MVP de um marketplace de serviços desenvolvido aplicando Lean Inception e Scrum. O projeto contempla levantamento de requisitos, criação de backlog no Jira e prototipação no Figma. 
 
 ## Funcionalidades do MVP
 
@@ -12,6 +11,12 @@ O Freela é uma aplicação criada para conectar clientes que precisam contratar
 - Visualização do perfil profissional
 - Solicitação de orçamento
 - Agendamento de serviços
+- Pagamento dentro da plataforma
+- Chat
+- Avaliação dos usuários
+- Notificações
+- Suporte ao cliente
+- Denunciar usuário
 
 ## Metodologias utilizadas
 
@@ -19,6 +24,7 @@ O Freela é uma aplicação criada para conectar clientes que precisam contratar
 - Scrum
 - Product Backlog
 - Sprint Planning
+- Epics
 - User Stories
 - Definition of Ready (DoR)
 - Definition of Done (DoD)
@@ -28,7 +34,3 @@ O Freela é uma aplicação criada para conectar clientes que precisam contratar
 - Jira (gestão ágil)
 - Figma (protótipo de interface)
 - GitHub (versionamento)
-
-## Status
-
-🚧 MVP em desenvolvimento
