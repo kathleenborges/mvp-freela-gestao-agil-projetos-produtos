@@ -7,32 +7,32 @@ Trata-se de um MVP de um marketplace de serviços desenvolvido aplicando Lean In
 ## Funcionalidades do MVP divididos em épicos
 
 📁 ÉPICO: Gestão de Usuários
-   └── Cadastro de Usuário
-   └── Denunciar Usuário
+ - Cadastro de Usuário
+ - Denunciar Usuário
 
 
 📁 ÉPICO: Busca e Contratação
-   └── Buscar Prestadores
-   └── Visualizar Disponibilidade
-   └── Solicitar Orçamento
-   └── Agendar Serviço
+ - Buscar Prestadores
+ - Visualizar Disponibilidade
+ - Solicitar Orçamento
+ - Agendar Serviço
 
 
 📁 ÉPICO: Pagamentos
-   └── Pagamento
+ - Pagamento
 
 
 📁 ÉPICO: Comunicação
-   └── Chat
-   └── Avaliação
-   └── Notificações
+ - Chat
+ - Avaliação
+ - Notificações
 
 
 📁 ÉPICO: Suporte e Crescimento
-   └── Suporte
-   └── Portfólio
-   └── Cupom
-   └── Indicação
+ - Suporte
+ - Portfólio
+ - Cupom
+ - Indicação
 
 ## Metodologias utilizadas
 
