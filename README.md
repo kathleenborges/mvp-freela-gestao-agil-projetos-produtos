@@ -4,19 +4,35 @@ O Freela é uma aplicação criada para conectar clientes que precisam contratar
 
 Trata-se de um MVP de um marketplace de serviços desenvolvido aplicando Lean Inception e Scrum. O projeto contempla levantamento de requisitos, criação de backlog no Jira e prototipação no Figma. 
 
-## Funcionalidades do MVP
+## Funcionalidades do MVP divididos em épicos
 
-- Cadastro de usuários
-- Busca de prestadores de serviço
-- Visualização do perfil profissional
-- Solicitação de orçamento
-- Agendamento de serviços
-- Pagamento dentro da plataforma
-- Chat
-- Avaliação dos usuários
-- Notificações
-- Suporte ao cliente
-- Denunciar usuário
+📁 ÉPICO: Gestão de Usuários
+   └── Cadastro de Usuário
+   └── Denunciar Usuário
+
+
+📁 ÉPICO: Busca e Contratação
+   └── Buscar Prestadores
+   └── Visualizar Disponibilidade
+   └── Solicitar Orçamento
+   └── Agendar Serviço
+
+
+📁 ÉPICO: Pagamentos
+   └── Pagamento
+
+
+📁 ÉPICO: Comunicação
+   └── Chat
+   └── Avaliação
+   └── Notificações
+
+
+📁 ÉPICO: Suporte e Crescimento
+   └── Suporte
+   └── Portfólio
+   └── Cupom
+   └── Indicação
 
 ## Metodologias utilizadas
 
